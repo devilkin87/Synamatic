@@ -28,7 +28,7 @@ Check out [API LIVE DEMO](https://frontend-movie-review.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:https://github.com/Elsa2022/Synamatic.git
+git clone https://github.com/devilkin87/movie_review.git
 ```
 
 2. Backend setting

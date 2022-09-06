@@ -14,7 +14,7 @@ manner where they can save time by loading all the currently playing movies in a
 
 Check out [FRONTEND LIVE DEMO](https://frontend-movie-review.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://frontend-movie-review.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-movie-review.herokuapp.com/) here!!
 
 ## Tech used
 

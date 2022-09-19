@@ -1,7 +1,7 @@
-# Movie Review
+# Synamatic
 
 ```
-Movie Review, with a frontend built in React & Redux and a backend built in Django API.
+Synamatic, with a frontend built in React & Redux and a backend built in Django API.
 In this web application you will find many informative movie reviews, you can compare
 different reviews on current, upcoming, recent, or vintage movies and even get a sneak-peek
 at the trailers. You can filter the movies by genre. This extension is built in a more user-friendly
